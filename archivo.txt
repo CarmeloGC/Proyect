@@ -1,0 +1,24 @@
+﻿create “ans.txt” as file_out
+create “tmp.txt” as tmp
+assign “test.txt” to file_in
+tmp = sort file_in asc
+tmp = rem_doubles tmp
+file_out = tmpCon una votaci�n de 5-4 la Corte Constitucional dej� intacto el art�culo 
+38 de la ley 734 de 2002 y la Ley 610 de 2000 que se�alan que quienes tengan
+responsabilidad fiscal no pueden ocupar cargos p�blicos.
+
+Debido a que es una decisi�n que se da por una demanda del abogado del
+actual senador Gustavo Petro, surgen dudas sobre qu� pasar� en su caso.
+Con una votaci�n de 5-4 la Corte Constitucional dej� intacto el art�culo 
+38 de la ley 734 de 2002 y la Ley 610 de 2000 que se�alan que quienes tengan
+responsabilidad fiscal no pueden ocupar cargos p�blicos.
+
+Debido a que es una decisi�n que se da por una demanda del abogado del
+actual senador Gustavo Petro, surgen dudas sobre qu� pasar� en su caso.
+Petro tiene una multa de 270 mil millones de pesos por haber reducido las tarifas de 
+Transmilenio que ocasionaron un afectaci�n al erario p�blico, pero est� suspendida.
+Por ello, para su apoderado Julio C�sar Ort�z , no se ve afectado.
+
+�Todas las sanciones de car�cter fiscal impuestas por la Contralor�a de Bogot� 
+y por la Superintendencia est�n demandas y esas decisiones est�n suspendidas y no 
+se pueden aplicar�, dijo.
