@@ -1,27 +1,14 @@
-Ciudad de México acogió este lunes a miles de personas de la primera caravana 
-de migrantes centroamericanos que se dirigen a Estados Unidos en un estadio  
-deportivo, donde se les brindó ayuda humanitaria, aunque las autoridades locales  
-advirtieron que no les proporcionarán transporte para continuar su marcha.  
-
-Entre tanto, este lunes se conoció que Estados Unidos envió 4.800 soldados 
-a los estados fronterizos, dijo el Pentágono. 
-
-Alrededor de 1.500 personas fueron llegando a lo largo de la noche y la mañana 
-del lunes al estadio Jesús Martínez ‘Palillo’, donde ya habían pasado la noche 
-cerca de 500 personas, y las autoridades prevén que se lleguen a concentrar 
-unas 5.000 en los próximos días. 
-
-Los migrantes fueron repartidos en tiendas de campaña y carpas en el 
-campo, en las gradas y en los alrededores de este complejo deportivo,  
-donde las autoridades instalaron 15 cisternas de agua. 
-
-Para atender la caravana también se instaló un comedor, donde los 
-migrantes disponen de dos horas para el desayuno, dos horas para el 
-almuerzo y otras dos para la comida. 
-
-create "ans.txt" as file_out
-create "tmp.txt" as tmp
-assign "test.txt" to file_in
-tmp = sort file_in asc
-tmp = rem_doubles tmp
-file_out = tmp
+Mi primer recuerdo de Funes es muy perspicuo. 
+Lo veo en un atardecer de marzo o febrero del 
+año ochenta y cuatro. Mi padre, ese año, me había 
+llevado a veranear a Fray Bentos. Yo volvía con mi 
+primo Bernardo Haedo de la estancia de San Francisco. 
+Volvíamos cantando, a caballo, y ésa no era la única 
+circunstancia de mi felicidad. Después de un día bochornoso, 
+una enorme tormenta color pizarra había escondido el cielo. 
+La alentaba el viento del Sur, ya se enloquecían los árboles; 
+yo tenía el temor (la esperanza) de que nos 
+sorprendiera en un descampado el agua elemental. 
+Corrimos una especie de carrera con la tormenta. 
+Entramos en un callejón que se ahondaba entre dos 
+veredas altísimas de ladrillo.

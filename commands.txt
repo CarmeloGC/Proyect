@@ -1,6 +1,6 @@
-assign "test.txt" to file_in
 create "ans.txt" as file_out
 create "tmp.txt" as tmp
+assign "test.txt" a file_in
 tmp = sort file_in asc
 tmp = rem_doubles tmp
 file_out = tmp
